@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "summary": {
+    "title": "Biometria-APP Cooperado",
+    "owner": "kelsey",
+    "description": "Implementação do sistema de Biométria no APP do Cooperado",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Kelsey"
+  }
+}
